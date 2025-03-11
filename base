@@ -1,5 +1,7 @@
 {
-  "Apps":[
-    {"com.anikets.okwin":    "WiUzMzVsbVd0dGFQIS1sUyp0PSRAZFFUJSZpSWRpOz9lUlRvPCsjRmNAVGZKR0lYblIjcjsxWWtHcXNKKllqRDUwQTI0NkRFNzM0OUUzMUU"}
-    ]
+  "Apps": [
+    {
+      "com.anikets.okwin": "WiUzMzVsbVd0dGFQIS1sUyp0PSRAZFFUJSZpSWRpOz9lUlRvPCsjRmNAVGZKR0lYblIjcjsxWWtHcXNKKllqRDUwQTI0NkRFNzM0OUUzMUU"
+    }
+  ]
 }
