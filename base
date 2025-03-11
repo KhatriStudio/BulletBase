@@ -1,7 +1,10 @@
 {
   "Apps": [
     {
-      "com.anikets.okwin": "WiUzMzVsbVd0dGFQIS1sUyp0PSRAZFFUJSZpSWRpOz9lUlRvPCsjRmNAVGZKR0lYblIjcjsxWWtHcXNKKllqRDUwQTI0NkRFNzM0OUUzMUU"
+      "com.anikets.okwin": {
+        "key": "WiUzMzVsbVd0dGFQIS1sUyp0PSRAZFFUJSZpSWRpOz9lUlRvPCsjRmNAVGZKR0lYblIjcjsxWWtHcXNKKllqRDUwQTI0NkRFNzM0OUUzMUU",
+        "allowed": true
+      }
     }
   ]
 }
